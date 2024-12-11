@@ -2,7 +2,7 @@
 CSI2300 Project Proposal						Vanessa Padilla
 
 1.	Project name- Simple Drawing Application 
--	By myself
+-	By myself 
 
 2.	I will be trying to build a Simple Drawing App that will allow a user to create different shapes using their mouse. I want to build this to learn how to be able to create an app that is usable in different ways. I think it is useful for me to learn, and it also serves as a fun app for the user. The app will allow a user to quickly draw a shape with little effort and the shapes can be used for various things.  Although, it seems like a simple application I hope the user is able to have fun and realize that even simple apps have a lot of work put into them. 
 
